@@ -15,5 +15,8 @@ This is a simple pattern search script written in Python using the Boyer-Moore s
 - chardet (`pip install chardet`)
 
 ## How to use
-   bash
+1. Run the script:
+   ```bash
    python BoyerMooreAlgorithm.py
+2. When prompted, enter the path to a .txt file and the pattern you want to search for.
+
