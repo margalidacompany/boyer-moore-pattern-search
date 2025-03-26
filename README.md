@@ -17,6 +17,6 @@ This is a simple pattern search script written in Python using the Boyer-Moore s
 ## How to use
 1. Run the script:
    ```bash
-   python BoyerMooreAlgorithm.py
+   python main.py
 2. When prompted, enter the path to a .txt file and the pattern you want to search for.
 
